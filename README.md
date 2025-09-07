@@ -1,4 +1,3 @@
-# EventosPrograma
 # Sistema de Eventos
 
 Sistema de registro e notificação de eventos desenvolvido em Java seguindo o paradigma orientado a objetos.
@@ -124,3 +123,4 @@ O sistema cria automaticamente os seguintes arquivos:
 ## Desenvolvido por
 
 Sistema desenvolvido seguindo as especificações do projeto acadêmico, implementando todas as funcionalidades solicitadas com código limpo e bem estruturado.
+
